@@ -1,0 +1,1 @@
+# RaiseTech AWSコース用リポジトリ
