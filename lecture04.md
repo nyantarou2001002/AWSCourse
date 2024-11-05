@@ -8,11 +8,11 @@ AWS コースの第 4 回課題が完了しましたので確認したいただ�
 
 ## EC2 インスタンス作成
 
-![](./images/EC2.jpeg)
+![](./images/EC2v2.jpeg)
 
 ## RDS 作成
 
-![](./images/RDS.jpeg)
+![](./images/RDSv2.jpeg)
 
 - RDS のサブネット
 
@@ -24,17 +24,13 @@ AWS コースの第 4 回課題が完了しましたので確認したいただ�
 
 ## EC2 のセキュリティグループ
 
-![](./images/EC2S1.jpeg)
-
-![](./images/EC2S2.jpeg)
+![](./images/EC2Sv2.jpeg)
 
 ## RDS のセキュリティグループ
 
-![](./images/RDSS1.jpeg)
+![](./images/RDSS1v2.jpeg)
 
-![](./images/RDSS2.jpeg)
-
-![](./images/RDSS3.jpeg)
+![](./images/RDSS2v2.jpeg)
 
 ## EC2 から RDS に接続
 
